@@ -4,7 +4,7 @@
 
 # Overview
 
-This project seeks to develop a tool to help with the Filming Interactions to Nurture Development (FIND) project. By using multimodal modeling we are developing a human in the loop software that aims to identify the serve and return process within developmental psychology.
+This project seeks to develop a tool to help with the Filming Interactions to Nurture Development (FIND) project. By using multimodal modeling we are developing a human in the loop software that aims to identify the serve and return process within developmental psychology. Test
 
 
 # Software
