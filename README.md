@@ -16,8 +16,8 @@ IHD Flash Talks](https://ihd.berkeley.edu/events/seminar-series/early-learning-a
 }
 ```
 ## Directories
-    1. `Code` contains all of the notebooks used for the project and the various models used
-    2. `Documents` contains posters, paper, and presentation that goes into detail about how this pipeline was developed
+1. `Code` contains all of the notebooks used for the project and the various models used
+2. `Documents` contains posters, paper, and presentation that goes into detail about how this pipeline was developed
 
 ## Setup
 All notebooks are developed in Google Colab. To replicate download notebooks into colab and run.
