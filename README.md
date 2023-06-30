@@ -1,5 +1,6 @@
-# iFind_tech_team
- This is the working repo for the iFind technical team. Main contributers are Priscilla Zhao, Xi Jia Zhou, Raymond Zhang
+# IHD Flash Talks Talk: Joint Attention, Computer Vision, and Foundation Models: How State-of-the-art AI approaches can analyze instances of early childhood development
+
+
 
 
 # Overview
