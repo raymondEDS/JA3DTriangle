@@ -1,0 +1,32 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+library(stargazer)
+income = c(3,1,2,3,5,4,1)
+playing = c(0,1,0,0,1,1,0)
+
+area = c(
+  0.005128788056,
+0.07373297874,
+0.06056987299,
+0.0895901657,
+0.05195438627,
+0.08071445394,
+0.111765392
+)
+
+mydata <- data.frame(income = income, area = area, playing = playing)
+
+
+model = lm(area ~ income +  playing + playing*income, data =mydata )
+summary(model)
+
+stargazer(model)
+```
+
+
+
