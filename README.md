@@ -15,3 +15,7 @@ IHD Flash Talks](https://ihd.berkeley.edu/events/seminar-series/early-learning-a
     url = "https://ihd.berkeley.edu/events/seminar-series/early-learning-and-development-advancing-science-for-positive-impact"
 }
 ```
+## Directories
+
+## Setup
+All notebooks are developed in Google Colab. To replicate download notebooks into colab and run.
