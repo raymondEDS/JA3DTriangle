@@ -1,4 +1,4 @@
-# IHD Flash Talks: Joint Attention, Computer Vision, and Foundation Models: How state-of-the-art AI approaches can analyze instances of early childhood development
+# IHD Flash Talks: Joint Attention, Computer Vision, Foundation Models: How state-of-the-art AI approaches can analyze instances of early childhood development
 
 ![alt text](https://github.com/raymondEDS/JA3DTriangle/blob/master/All3Pictures.png)
 
